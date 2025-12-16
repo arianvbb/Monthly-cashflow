@@ -1,2 +1,2 @@
 # Monthly-cashflow
-A program developed to extract data from a CSV file and summarize the expenses and influxes to calculate monthly cashflow.
+A program developed to extract data from a CSV file and summarize the expenses and influxes to calculate monthly cashflow. The data was developed by a Chatbot given a promt to create the average expenses and income in form of a CSV of an american family. If the data matches true statistics is something I don´t know nor find relevant in this particular project. It´s my first time dealing with CSV files and me rehoning my previous programming foundation with included a tiny bit of lists. 
